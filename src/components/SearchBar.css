@@ -1,0 +1,21 @@
+.searchBar {
+  text-align: center;
+}
+
+
+.searchInput, .searchSubmit {
+  padding: 0.2rem 0.2rem;
+  font-size: 1.6rem;
+  outline: none;
+  border: 1px solid #000;
+  background-color: #ddd;
+}
+
+.searchInput {
+  max-width: 70%;
+}
+
+.searchSubmit {
+  margin-left: 1rem;
+  max-width: 25%;
+}
